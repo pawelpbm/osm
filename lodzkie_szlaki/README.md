@@ -7,6 +7,7 @@ Skrypt *lodzkie_szlaki_to_osm.py* konwertuje pliki *Karta szlaku*, skrypt *lodzk
 # Wymagania
 
 W systemie zainstalowane muszą być:
+
 * [Python 2.7](http://python.org/)
 * [biblioteka xlrd](http://pypi.python.org/pypi/xlrd)
 
