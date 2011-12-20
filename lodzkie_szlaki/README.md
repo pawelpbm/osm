@@ -13,7 +13,7 @@ W systemie zainstalowane muszą być:
 
 # Użycie
 
-## lodzkie_szlaki_to_osm.py
+## [lodzkie_szlaki_to_osm.py](https://raw.github.com/pawelszubert/osm/master/lodzkie_szlaki/lodzkie_szlaki_to_osm.py)
 
 ### Windows
 
@@ -26,7 +26,7 @@ W systemie zainstalowane muszą być:
 
 W wyniku działania skryptu otrzymujemy katalog o nazwie takiej jak przetwarzany plik ze zbiorem plików osm dla każdej z gmin.
 
-## lodzkie_szlaki_to_osm_2.py
+## [lodzkie_szlaki_to_osm_2.py](https://raw.github.com/pawelszubert/osm/master/lodzkie_szlaki/lodzkie_szlaki_to_osm_2.py)
 
 Skrypt uruchamiamy dokładnie tak jak poprzedni, jednak przed jego uruchomieniem musimy sprawdzić w której kolumnie pliku xls znajduje się numer id punktu (kolumny liczymy od 0), a następnie otwierając skrypt dowolnym edytorem tekstu ustawić wartość zmiennej *NN*.
 
